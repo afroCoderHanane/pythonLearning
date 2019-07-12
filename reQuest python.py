@@ -1,0 +1,7 @@
+price = input("price of Chips")
+int(price)
+taxRate = input("tax rate: ")
+int(taxRate)
+total = int(price) + int(taxRate)
+print("the total price is : ")
+print(total)
